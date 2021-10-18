@@ -1,0 +1,4 @@
+Tambahan pada Tugas 3:
+
+1. Menambahkan kolom jenis kelamin dan instagram pada database dan codingan.
+2. Mengubah tampilan button pada bagian edit teman, hapus teman, dan tambah teman.
